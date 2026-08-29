@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/KBM-Backend.Api.props" />
+</Project>

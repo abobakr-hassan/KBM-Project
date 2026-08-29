@@ -1,0 +1,11 @@
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/bin/Debug/net8.0/KBM-Backend.Domain.deps.json
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/bin/Debug/net8.0/KBM-Backend.Domain.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/bin/Debug/net8.0/KBM-Backend.Domain.pdb
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/KBM-Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/KBM-Backend.Domain.AssemblyInfoInputs.cache
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/KBM-Backend.Domain.AssemblyInfo.cs
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/KBM-Backend.Domain.csproj.CoreCompileInputs.cache
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/KBM-Backend.Domain.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/refint/KBM-Backend.Domain.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/KBM-Backend.Domain.pdb
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/ref/KBM-Backend.Domain.dll

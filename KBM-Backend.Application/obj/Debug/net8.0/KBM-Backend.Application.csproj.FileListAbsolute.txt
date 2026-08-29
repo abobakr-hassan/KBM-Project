@@ -1,0 +1,15 @@
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/bin/Debug/net8.0/KBM-Backend.Application.deps.json
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/bin/Debug/net8.0/KBM-Backend.Application.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/bin/Debug/net8.0/KBM-Backend.Application.pdb
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/bin/Debug/net8.0/KBM-Backend.Domain.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/bin/Debug/net8.0/KBM-Backend.Domain.pdb
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/KBM-Backend.Application.csproj.AssemblyReference.cache
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/KBM-Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/KBM-Backend.Application.AssemblyInfoInputs.cache
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/KBM-Backend.Application.AssemblyInfo.cs
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/KBM-Backend.Application.csproj.CoreCompileInputs.cache
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/KBM-Back.A28493C7.Up2Date
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/KBM-Backend.Application.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/refint/KBM-Backend.Application.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/KBM-Backend.Application.pdb
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Application/obj/Debug/net8.0/ref/KBM-Backend.Application.dll
