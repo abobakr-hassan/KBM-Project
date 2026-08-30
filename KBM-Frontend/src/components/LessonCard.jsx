@@ -17,11 +17,11 @@ function LessonCard({ lesson }) {
         
                 <div className="lesson-author">
                     <span className="author-avatar">
-                    {lesson.department.charAt(0)}
+                    {lesson.author.charAt(0)}
                     </span>
         
                     <div>
-                    <strong>{lesson.department}</strong>
+                    <strong>{lesson.author}</strong>
                     <p>{lesson.role}</p>
                     </div>
                 </div>

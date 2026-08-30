@@ -1,10 +1,20 @@
+import { useState } from "react";
+import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import LessonGrid from "../components/LessonGrid";
-import { lessons as initialLessons } from "../data/lessons";
-import { Link } from "react-router-dom";
+import { lessons } from "../data/lessons";
 
 function LessonsPage() {
-  const lessons = initialLessons;
+  const [searchTerm, setSearchTerm] = useState("");
+  const [groupByDepartment, setGroupByDepartment] = useState(false);
+
+  const query = searchTerm.toLowerCase();
+
+  const filteredLessons = lessons.filter((lesson) =>
+    lesson.title.toLowerCase().includes(query) ||
+    lesson.author.toLowerCase().includes(query) ||
+    lesson.department.toLowerCase().includes(query)
+  );
 
   return (
     <>
@@ -34,7 +44,7 @@ function LessonsPage() {
 
         </section>
 
-        <section className="filters">
+        <div className="filters">
 
           <div className="search-box">
             ⌕
@@ -42,22 +52,27 @@ function LessonsPage() {
             <input
               type="text"
               placeholder="Search for a lesson..."
+              value={searchTerm}
+              onChange={(event) => setSearchTerm(event.target.value)}
             />
           </div>
 
-          <button className="apply-button">
-            Search
-          </button>
-
-        </section>
+        </div>
 
         <div className="group-container">
-          <button className="group-button">
+          <button
+            type="button"
+            className={`group-button ${groupByDepartment ? "active" : ""}`}
+            onClick={() => setGroupByDepartment(!groupByDepartment)}
+          >
             ◉ Group by Department
           </button>
         </div>
 
-        <LessonGrid lessons={lessons} />
+        <LessonGrid
+          lessons={filteredLessons}
+          groupByDepartment={groupByDepartment}
+        />
 
       </main>
     </>
