@@ -17,3 +17,4 @@
 /Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Infrastructure/obj/Debug/net8.0/KBM-Backend.Infrastructure.pdb
 /Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Infrastructure/obj/Debug/net8.0/KBM-Backend.Infrastructure.genruntimeconfig.cache
 /Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Infrastructure/obj/Debug/net8.0/ref/KBM-Backend.Infrastructure.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Infrastructure/obj/Debug/net8.0/KBM-Backend.Infrastructure.sourcelink.json

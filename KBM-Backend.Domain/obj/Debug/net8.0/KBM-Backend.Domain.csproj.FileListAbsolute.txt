@@ -9,3 +9,4 @@
 /Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/refint/KBM-Backend.Domain.dll
 /Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/KBM-Backend.Domain.pdb
 /Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/ref/KBM-Backend.Domain.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Domain/obj/Debug/net8.0/KBM-Backend.Domain.sourcelink.json

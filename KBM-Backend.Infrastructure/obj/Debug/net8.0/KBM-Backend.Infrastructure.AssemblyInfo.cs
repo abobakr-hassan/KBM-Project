@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KBM-Backend.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c3182c03a73f32dbaf87cf14a3dfec11e08c8c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75190d149f6b5bc849b408c281796e93904c3aed")]
 [assembly: System.Reflection.AssemblyProductAttribute("KBM-Backend.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KBM-Backend.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

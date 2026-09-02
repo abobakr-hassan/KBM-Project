@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("8d41f3a8-97d3-437d-8894-4cd90382792d")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("KBM-Backend.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c3182c03a73f32dbaf87cf14a3dfec11e08c8c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75190d149f6b5bc849b408c281796e93904c3aed")]
 [assembly: System.Reflection.AssemblyProductAttribute("KBM-Backend.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KBM-Backend.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

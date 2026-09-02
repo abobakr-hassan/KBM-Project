@@ -158,3 +158,6 @@
 /Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Api/bin/Debug/net8.0/BCrypt-Net-Next.dll
 /Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Api/bin/Debug/net8.0/Microsoft.Bcl.Cryptography.dll
 /Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Api/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Api/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/abobakrhossam/Downloads/Advansys/Projects/KBM-Backend/KBM-Backend.Api/obj/Debug/net8.0/KBM-Backend.Api.sourcelink.json
